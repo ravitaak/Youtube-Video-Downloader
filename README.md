@@ -31,14 +31,8 @@ Using Youtube Video Downloader is super easy because it includes basically all t
 </ul>
 
 
-
-### Contribute translations
-
-We use [weblate](https://hosted.weblate.org/projects/pstube/) for translations.
-
 ### Build from source
 
-- Download latest Flutter SDK (>=3.0.0)
 - Clone this repo and then for building
 
 ### Credits
