@@ -30,12 +30,15 @@ Using Youtube Video Downloader is super easy because it includes basically all t
     <li>Youtube</li>
 </ul>
 
+
+
 ### Pictures
-<![1](https://github.com/ravitaak/Youtube-Video-Downloader/blob/master/assets/screenshots/1.jpg)>
-<![2](https://github.com/ravitaak/Youtube-Video-Downloader/blob/master/assets/screenshots/2.jpg)>
-<![3](https://github.com/ravitaak/Youtube-Video-Downloader/blob/master/assets/screenshots/3.jpg)>
-<![4](https://github.com/ravitaak/Youtube-Video-Downloader/blob/master/assets/screenshots/4.jpg)>
-<![5](https://github.com/ravitaak/Youtube-Video-Downloader/blob/master/assets/screenshots/5.jpg)>
+<img src="https://github.com/ravitaak/Youtube-Video-Downloader/blob/master/assets/screenshots/1.jpg" width="200">
+<img src="https://github.com/ravitaak/Youtube-Video-Downloader/blob/master/assets/screenshots/2.jpg" width="200">
+<img src="https://github.com/ravitaak/Youtube-Video-Downloader/blob/master/assets/screenshots/3.jpg" width="200">
+<img src="https://github.com/ravitaak/Youtube-Video-Downloader/blob/master/assets/screenshots/4.jpg" width="200">
+<img src="https://github.com/ravitaak/Youtube-Video-Downloader/blob/master/assets/screenshots/5.jpg" width="200">
+
 ### Build from source
 
 - Clone this repo and then for building
