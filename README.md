@@ -23,7 +23,7 @@ Using Youtube Video Downloader is super easy because it includes basically all t
 <ul>
     <li>Android</li>
 </ul>
-<p>It's only for android user only at this time because when I am saving the videos I am using a static path of andorid, I will upadate it as soon as possible</p>
+<p>It's only for android user at this time because when I am saving the videos I am using a static path of andorid, I will upadate it as soon as possible</p>
 
 <h4>Supported services</h4>
 <ul>
