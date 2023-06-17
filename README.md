@@ -18,7 +18,7 @@ Using Youtube Video Downloader is super easy because it includes basically all t
     <li>Download videos in the background</li>
 </ul>
 
-<h4>Supported platforms</h4>
+<h3>Supported platforms</h3>
 
 <ul>
     <li>Android</li>
