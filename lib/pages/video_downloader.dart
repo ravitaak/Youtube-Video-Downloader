@@ -58,12 +58,12 @@ class VideoPage extends StatelessWidget {
                   keyboardType: TextInputType.url,
                   cursorColor: Colors.red,
                   textInputAction: TextInputAction.done,
-                  decoration: const InputDecoration(
+                  decoration: InputDecoration(
                     enabledBorder: InputBorder.none,
                     focusedBorder: InputBorder.none,
-                    prefixIcon:
-                        Icon(FontAwesomeIcons.youtube, color: Colors.red),
+                    prefixIcon: const Icon(FontAwesomeIcons.youtube, color: Colors.red),
                     hintText: "Youtube Video Url...",
+                    suffixIcon: IconButton(onPressed:() => videoUrlController.clear(), icon: const Icon(Icons.clear))
                   ),
                 ),
               ),
