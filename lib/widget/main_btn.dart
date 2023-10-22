@@ -14,15 +14,13 @@ class MainButtonWidget extends StatelessWidget {
       mainAxisAlignment: MainAxisAlignment.start,
       crossAxisAlignment: CrossAxisAlignment.start,
       children: <Widget>[
-        Row(
+        const Row(
           mainAxisAlignment: MainAxisAlignment.center,
-          children: const <Widget>[
-            Text("Trim Merge Ringtone",
-                style: TextStyle(
-                    fontSize: 12.0,
-                    color: Colors.white,
-                    fontWeight: FontWeight.bold,
-                    fontFamily: "Arial")),
+          children: <Widget>[
+            Text(
+              "Trim Merge Ringtone",
+              style: TextStyle( fontSize: 12.0, color: Colors.white, fontWeight: FontWeight.bold, fontFamily: "Arial")
+            ),
           ],
         ),
         Padding(
@@ -31,19 +29,21 @@ class MainButtonWidget extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: <Widget>[
               customButton(
-                  "Video Download",
-                  FontAwesomeIcons.video,
-                  const Color.fromARGB(255, 21, 0, 105),
-                  const Color.fromARGB(255, 146, 13, 255),
-                  context,
-                  1),
+                "Video Download",
+                FontAwesomeIcons.video,
+                const Color.fromARGB(255, 21, 0, 105),
+                const Color.fromARGB(255, 146, 13, 255),
+                context,
+                1
+              ),
               customButton(
-                  "Playlist Download",
-                  FontAwesomeIcons.music,
-                  const Color.fromARGB(255, 37, 193, 255),
-                  const Color.fromARGB(255, 47, 0, 237),
-                  context,
-                  2),
+                "Playlist Download",
+                FontAwesomeIcons.music,
+                const Color.fromARGB(255, 37, 193, 255),
+                const Color.fromARGB(255, 47, 0, 237),
+                context,
+                2
+              ),
             ],
           ),
         ),
@@ -58,14 +58,16 @@ class MainButtonWidget extends StatelessWidget {
                   const Color.fromARGB(255, 255, 32, 151),
                   const Color.fromARGB(255, 255, 169, 71),
                   context,
-                  3),
+                  3
+                ),
               customButton(
-                  "Share",
-                  FontAwesomeIcons.share,
-                  const Color.fromARGB(255, 0, 255, 136),
-                  const Color.fromARGB(255, 0, 137, 161),
-                  context,
-                  4),
+                "Share",
+                FontAwesomeIcons.share,
+                const Color.fromARGB(255, 0, 255, 136),
+                const Color.fromARGB(255, 0, 137, 161),
+                context,
+                4
+              ),
             ],
           ),
         ),
